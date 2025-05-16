@@ -1,10 +1,13 @@
 
-# Image Compressor API Compress images by reducing colors using K-Means clustering. Built with FastAPI and NumPy. 
+# Image Compressor API
 
-## Setup : Clone and enter repo:
+Compress images by reducing colors using K-Means clustering. Built with FastAPI and NumPy.
 
+## Setup
 
-bash
+### Clone and enter the repository:
+
+```bash
 git clone https://github.com/yourusername/image_compressor.git
 cd image_compressor
 
