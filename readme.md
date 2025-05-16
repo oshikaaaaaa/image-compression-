@@ -5,7 +5,7 @@ Compress images by reducing colors using K-Means clustering. Built with FastAPI 
 
 ## Setup
 
-### Clone and enter the repository:
+## Clone and enter the repository:
 
 ```bash
 git clone https://github.com/yourusername/image_compressor.git
